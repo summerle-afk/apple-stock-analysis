@@ -11,6 +11,11 @@ This project analyzes Apple (AAPL) stock prices in 2024 and visualizes moving av
 
 ---
 
+## 📊 Example Output
+![Apple Stock Chart](images/apple_stock.png)
+
+---
+
 ## 🛠️ Requirements
 Make sure you have the following Python packages installed:
 - pandas
